@@ -1,0 +1,12 @@
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\bin\Debug\net9.0\TaskFlow.Core.deps.json
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\bin\Debug\net9.0\TaskFlow.Core.dll
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\bin\Debug\net9.0\TaskFlow.Core.pdb
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.AssemblyInfoInputs.cache
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.AssemblyInfo.cs
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.csproj.CoreCompileInputs.cache
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.sourcelink.json
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.dll
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\refint\TaskFlow.Core.dll
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\TaskFlow.Core.pdb
+C:\MyProjectFiles\TaskFlow\TaskFlow.Core\obj\Debug\net9.0\ref\TaskFlow.Core.dll
